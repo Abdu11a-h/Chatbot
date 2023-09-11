@@ -1,0 +1,4 @@
+::1 - - [24/May/2022:11:32:39 +0500] "GET /projects/My-work/BookPlatform/users/login/ HTTP/1.1" 404 1053
+::1 - - [24/May/2022:11:32:39 +0500] "GET /favicon.ico HTTP/1.1" 404 1259
+::1 - - [24/May/2022:11:32:43 +0500] "GET /projects/My-work/BookPlatform/users/login/ HTTP/1.1" 404 1053
+::1 - - [24/May/2022:11:32:43 +0500] "GET /favicon.ico HTTP/1.1" 404 1259

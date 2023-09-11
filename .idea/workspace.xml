@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f9e283f-1dfd-4c4e-9645-883025b6368a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update_interviews</find>
+      <find>8682198</find>
+      <find>get_all_slots_post</find>
+      <find>slot_management</find>
+      <find>Interviews No</find>
+      <find>foreach</find>
+      <find>regist</find>
+      <find>n dashb</find>
+      <find>n login</find>
+      <find>|</find>
+      <find>&quot; | &quot;</find>
+      <find>../vendors</find>
+      <find>../build</find>
+      <find>SITE_TITLE</find>
+      <find>submit</find>
+      <find>assets/</find>
+      <find>Tones</find>
+      <find>ADMIN_LOGIN</find>
+      <find>compA</find>
+      <find>upda</find>
+      <find>table</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>&lt;?php echo VENDOR.'';?&gt;</replace>
+      <replace>&lt;?php echo ?&gt;</replace>
+      <replace>&lt;?php echo VENDOR;?&gt;</replace>
+      <replace>&lt;?php echo BUILD;?&gt;</replace>
+      <replace>&lt;?php echo ;?&gt;</replace>
+      <replace>&lt;?php echo FRONT_ASSETS;?&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\projects\My-work\BookPlatform\application\views\includes</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/AdminApi.php" />
+        <option value="$PROJECT_DIR$/application/views/Includes/header.php" />
+        <option value="$PROJECT_DIR$/application/views/Includes/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin-Panel/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin-Panel/header.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin-Panel/login.php" />
+        <option value="$PROJECT_DIR$/application/views/Registrations/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/Registrations/login.php" />
+        <option value="$PROJECT_DIR$/application/views/Registrations/header.php" />
+        <option value="$PROJECT_DIR$/application/views/Registrations/signup.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Registrations/signup.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Registrations/resetPassword.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Registrations/login.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Registrations/forgotPassword.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Registrations/footer.php" />
+        <option value="$PROJECT_DIR$/admin_assets/js/functions.js" />
+        <option value="$PROJECT_DIR$/application/views/User/Registrations/otp.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Registrations/signup.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Users_Functions.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Users.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Registrations/header.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Front/shop-footer.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Users_Front.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Front/shop-index.php" />
+        <option value="$PROJECT_DIR$/application/views/User/Front/shop-header.php" />
+        <option value="$PROJECT_DIR$/front_assets/pages/css/slider.css" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Registrations/login.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/users_list.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/users_form.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/admin_dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/thresholds_form.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/sms_list.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/thresholds_list.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/email_list.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/gasses_test_form.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Sensors/sensors_list_daily.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Dashboard/header.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Sensors/header.php" />
+        <option value="$PROJECT_DIR$/application/views/Admin/Sensors/component_list.php" />
+        <option value="$PROJECT_DIR$/application/controllers/AdminFunctions.php" />
+        <option value="$PROJECT_DIR$/application/views/Home.php" />
+        <option value="$PROJECT_DIR$/application/views/WebsiteViewFiles/about.php" />
+        <option value="$PROJECT_DIR$/application/views/WebsiteViewFiles/index.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/views/WebsiteViewFiles/header.php" />
+        <option value="$PROJECT_DIR$/application/views/WebsiteViewFiles/contact.php" />
+        <option value="$PROJECT_DIR$/application/views/WebsiteViewFiles/footer.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/assets/vendors/Chart.js/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/DateJS/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/Flot/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/autosize/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/bootstrap-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/bootstrap-progressbar/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/bootstrap-wysiwyg/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/cropper/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/devbridge-autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/echarts/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/eve/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/flot-spline/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/jquery.easy-pie-chart/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/jqvmap/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/jszip/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/select2/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/starrr/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/switchery/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/transitionize/package.json" />
+      <path value="$PROJECT_DIR$/assets/vendors/validator/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CI-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CI-Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CI-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CI-Base" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CI-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CI-Base" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CI-Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CI-Base" type="462c0819:PsiDirectoryNode" />
+              <item name="AsanTaxAssets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shehendi-application" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\My-work\GasesObservationApplication\application\views\Admin\Dashboard" />
+      <recent name="C:\xampp\htdocs\projects\My-work\BookPlatform\application\views\User\Registrations" />
+      <recent name="C:\xampp\htdocs\projects\My-work\BookPlatform\application\views\Admin\Registrations" />
+      <recent name="C:\xampp\htdocs\projects\My-work\BookPlatform\application\views\Admin" />
+      <recent name="C:\xampp\htdocs\projects\My-work\BookPlatform\application\views\Registrations" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\projects\CI-Base\application\views\WebsiteViewFiles" />
+      <recent name="C:\xampp\htdocs\projects\My-work\GasesObservationApplication\application\views\Admin\Sensors" />
+      <recent name="C:\xampp\htdocs\projects\My-work\GasesObservationApplication\application\views\Admin\Dashboard" />
+      <recent name="C:\xampp\htdocs\projects\My-work\GasesObservationApplication\application\views\Admin" />
+      <recent name="C:\xampp\htdocs\projects\My-work\FilesManagement\application\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f9e283f-1dfd-4c4e-9645-883025b6368a" name="Default" comment="" />
+      <created>1646907584564</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646907584564</updated>
+      <workItem from="1646907585797" duration="2392000" />
+      <workItem from="1646925834716" duration="1256000" />
+      <workItem from="1647258199898" duration="2007000" />
+      <workItem from="1647833350799" duration="8929000" />
+      <workItem from="1647940992237" duration="1397000" />
+      <workItem from="1648064242216" duration="1140000" />
+      <workItem from="1648094269920" duration="621000" />
+      <workItem from="1648178743389" duration="3608000" />
+      <workItem from="1648529315287" duration="9399000" />
+      <workItem from="1649139083373" duration="1522000" />
+      <workItem from="1649344457975" duration="1221000" />
+      <workItem from="1649665427734" duration="5960000" />
+      <workItem from="1649823926301" duration="1826000" />
+      <workItem from="1649874442625" duration="638000" />
+      <workItem from="1650309088490" duration="5741000" />
+      <workItem from="1650625292519" duration="122000" />
+      <workItem from="1650865679005" duration="1869000" />
+      <workItem from="1651139364785" duration="618000" />
+      <workItem from="1652162610276" duration="3752000" />
+      <workItem from="1652266730159" duration="1087000" />
+      <workItem from="1652343343134" duration="1621000" />
+      <workItem from="1652417302769" duration="1203000" />
+      <workItem from="1652848830294" duration="596000" />
+      <workItem from="1652855899746" duration="1187000" />
+      <workItem from="1652895500240" duration="604000" />
+      <workItem from="1652934765128" duration="1789000" />
+      <workItem from="1652947153330" duration="1207000" />
+      <workItem from="1653124663405" duration="3731000" />
+      <workItem from="1653204844309" duration="4632000" />
+      <workItem from="1653317725936" duration="6745000" />
+      <workItem from="1653371528512" duration="8559000" />
+      <workItem from="1653394832893" duration="16137000" />
+      <workItem from="1653493308877" duration="5298000" />
+      <workItem from="1660030473384" duration="1268000" />
+      <workItem from="1660732820542" duration="30027000" />
+      <workItem from="1660928448064" duration="31762000" />
+      <workItem from="1665572308540" duration="19000" />
+      <workItem from="1679555870870" duration="5856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="177346000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15884861" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3297414" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297414" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30525163" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297414" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297414" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/Includes/footer.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/header.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/resetPassword.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/users_controller.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/login.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/forgotPassword.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/footer.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/signup.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Users_Functions.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Users.php" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Users_Front.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Front/shop-footer.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Front/shop-header.php" />
+    <entry file="file://$PROJECT_DIR$/front_assets/pages/css/slider.css" />
+    <entry file="file://$PROJECT_DIR$/application/views/User/Front/shop-index.php" />
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/User/Registrations/otp.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/password/password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3401">
+          <caret line="179" column="17" selection-start-line="179" selection-start-column="17" selection-end-line="179" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/compat/password.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Registrations/footer.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Registrations/header.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/dashboard.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Registrations/login.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/footer.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="503" column="16" selection-start-line="503" selection-start-column="16" selection-end-line="503" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin_assets/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="50" column="91" selection-start-line="50" selection-start-column="91" selection-end-line="50" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/thresholds_list.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/sms_list.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/users_list.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/email_list.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysql/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="159" column="9" selection-start-line="159" selection-start-column="9" selection-end-line="159" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysqli/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="2115" column="17" selection-start-line="2115" selection-start-column="17" selection-end-line="2115" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/admin_dashboard.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/gasses_test_form.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/thresholds_form.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/header.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Sensors/header.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Sensors/sensors_list_daily.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Dashboard/users_form.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/Admin/Sensors/component_list.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/WebsiteViewFiles/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/WebsiteViewFiles/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/WebsiteViewFiles/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/WebsiteViewFiles/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/WebsiteViewFiles/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="138" column="59" lean-forward="true" selection-start-line="138" selection-start-column="59" selection-end-line="138" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/AdminFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
